@@ -262,6 +262,7 @@ p{
         height: 80vh;
         padding-bottom: 0;
         background-image: url("./images/bg.png");
+        background-position: center;
         
         .inner{
             .navbar{
@@ -274,6 +275,7 @@ p{
                     width: auto;
                     background: url("./images/hero-mg.png")no-repeat ;
                     background-size: cover;
+                    
                     
                     height: 100%;
                     ul{

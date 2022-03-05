@@ -316,6 +316,7 @@ p {
     height: 80vh;
     padding-bottom: 0;
     background-image: url("./images/bg.png");
+    background-position: center;
   }
   .hero-cont .inner .navbar nav {
     margin-right: 6em;
